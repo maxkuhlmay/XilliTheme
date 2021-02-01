@@ -9,6 +9,3 @@
     <?php wp_head();?>
 </head>
 <body>
-    
-    <h1> Ich bin ein toller Header </h1>
-
